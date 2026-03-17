@@ -1,5 +1,5 @@
-# Mathematical-Modelling-and-Simulation-of-Structured-Microorganism-Community-With-Hydrogels-Surfaces
+# Mathematical-Modelling-and-Computational-Modelling-and-Simulation
 
-MIC: Mathematical Modelling of Structured Microorganisms Community With Hydrogels.
+MIC: Mathematical Modelling and Computational Modelling.
 
 Developed by Dr.Olugbenga Oluwagbemi
